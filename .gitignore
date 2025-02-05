@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+chat_exchange.py
+audio.mp3
+subtitle.txt
+*.json
