@@ -6,6 +6,7 @@ import os
 
 # API 키 입력받아서 환경 변수로 설정
 OPENAI_API_KEY = ""
+
 os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY  # 환경 변수 설정
 
 # ✅ GPT의 캐릭터 설정
