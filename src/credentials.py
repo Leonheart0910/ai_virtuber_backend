@@ -8,7 +8,7 @@ TWITCH_CHANNEL = str(environ("TWITCH_CHANNEL", ""))
 # Your OpenAI API Key
 OPENAI_API_KEY = str(environ("OPENAI_API_KEY", ""))
 # Your Google Cloud JSON Path
-GOOGLE_JSON_PATH = str(environ("GOOGLE_JSON_PATH", "C:\\Users\\halo0\\Desktop\\leonproject\\ai-bj\\test_api\\Kuebiko-main\\vtube_test\\src\\protean-sunup-447816-s9-ffd28b806d9d.json"))
+GOOGLE_JSON_PATH = str(environ("GOOGLE_JSON_PATH", r"C:\Users\82109\Desktop\BJ_sena\sena\ai_virtuber_backend\src\protean-sunup-447816-s9-128234ac881c.json"))
 # Your BOT_NAME, example = Neuro-sama
 BOT_NAME = str(environ("BOT_NAME", ""))
 # Your ELEVENLABS_APIKEY, example = AAAAA

@@ -1,5 +1,5 @@
 import os
-from .openai import openai
+from .openai_test import openai
 
 
 def generate_text_by_audio(audio_filename="audio.mp3"):

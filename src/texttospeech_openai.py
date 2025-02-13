@@ -1,5 +1,5 @@
 from .generate_audio import play_audio
-from .openai import openai
+from .openai_test import openai
 
 
 def generate_audio_and_subtitle(

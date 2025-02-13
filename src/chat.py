@@ -3,7 +3,7 @@ from typing import Iterable, List
 from .chattypes import ChatCompletionMessage
 from .credentials import BOT_NAME
 from .logger import Logger
-from .openai import openai
+from .openai_test import openai
 
 _default_stop = [f"{BOT_NAME}:", "CHATTER:"]
 
